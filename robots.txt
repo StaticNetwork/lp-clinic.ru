@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /img/
+
+User-agent: Yandex
+Disallow: /img/
+Host: lp-clinic.ru

@@ -1,0 +1,24 @@
+html {margin: 0px; padding: 0px;}
+body {margin:0; padding:0; background:#000000; font-size:12px; font-family:verdana, "sans-serif"; line-height:14px;color: #fafafa;}
+p {margin:0px; padding-top:10px; padding-left:50px; padding-right:50px; font-size:12px; font-family:verdana, "sans-serif"; line-height:14px;color: #fafafa; text-align: justify;}
+
+h1 {margin: 0px; padding-left:50px; padding-top:50px; font-size: 12px; font-family:verdana, "sans-serif"; text-align:left; color: #85a3c4; text-transform:uppercase;}
+h2 {margin: 0px; padding-left:50px; padding-top:50px; font-size: 12px; font-family:verdana, "sans-serif"; text-align: left; color: #ffffff;}
+h6 {margin: 0px; padding-left:50px; padding-top:50px; font-size: 12px; font-family:verdana, "sans-serif"; text-align:left; color: #85a3c4; text-transform:uppercase;}
+
+a:link {text-decoration: none; color:#c2d5ea;}
+a:visited {text-decoration: none; color:#c2d5ea;}
+a:hover {text-decoration: underline; color:#85a3c4;}
+
+#photo {background:#000000 url(image/black_river.jpg) no-repeat fixed left top;}
+#sast {margin: 0px; padding-left:50px; font-size: 16px; font-family:verdana, "sans-serif"; text-align:left; color: #ffffff; text-transform:uppercase;}
+#author {margin:0px; padding-bottom:5px; padding-left:50px; padding-right:5px; font-size:10px; font-family:verdana, "sans-serif"; line-height:12px;color: #cccccc;}
+
+#ad {margin:0px; padding:0px; font-size: 8px; font-family:verdana, "sans-serif"; color: #555555;}
+#ad a:link {text-decoration: none; color:#555555;}
+#ad a:visited {text-decoration: none; color:#555555;}
+#ad a:hover {text-decoration: underline; color:#666666;}
+
+.p1 {margin:0px; padding-top:50px; padding-left:50px; padding-right:50px; font-size:12px; font-family:verdana, "sans-serif"; line-height:14px;color: #fafafa; text-align: justify;}
+.p2 {margin:0px; padding-top:30px; padding-left:50px; padding-right:50px; font-size:12px; font-family:verdana, "sans-serif"; line-height:14px;color: #fafafa; text-align: left;}
+.p4 {margin: 0px; padding-top:10px; padding-left:50px; padding-right:50px; font-size: 12px;font-family:verdana, "sans-serif"; line-height:14px; text-align: justify; color: #fafafa;}
